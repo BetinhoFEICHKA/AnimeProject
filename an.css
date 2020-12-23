@@ -1,0 +1,16 @@
+body {
+	text-align: center;
+	background-image: url("moon-boat-fisherman-horizon-art.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	color: #FFF8DC;
+}
+p {
+	color: #32CD32;
+}
+
+pre {
+	color: black;
+	font-size: 25px;
+	font-weight: bold;
+}
